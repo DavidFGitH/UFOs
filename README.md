@@ -9,23 +9,23 @@ To create a website that allows the user to analyze UFO sighting, with options t
 
 After opening the website, we are greeted with the following page:
 
-![UFOs1](githubcomDavidFGitH)
+![UFOs1](https://github.com/DavidFGitH/UFOs/blob/main/Resources/UFOs1.png)
 
 To start filtering all the data available, we would scroll down to where we see all the options for filtering:
 
-![UFOs2](githubcomDavidFGitH)
+![UFOs2](https://github.com/DavidFGitH/UFOs/blob/main/Resources/UFOs2.png)
 
 Currently, we can scroll down the page to see all the data currently available to us, but in order to filter the data we must enter values into the filter. In order to engage the filter, we will enter a value into one of the blank filters as shown below:
 
-![UFOs3](githubcomDavidFGitH)
+![UFOs3](https://github.com/DavidFGitH/UFOs/blob/main/Resources/UFOs3.png)
 
 After hitting enter, we can see that the values in the table included have now changed to just include the values that we entered in the filter.
 
-![UFOs4](githubcomDavidFGitH)
+![UFOs4](https://github.com/DavidFGitH/UFOs/blob/main/Resources/UFOs4.png)
 
 We can further refine this search by adding values into other empty filter fields:
 
-![UFOs5](githubcomDavidFGitH)
+![UFOs5](https://github.com/DavidFGitH/UFOs/blob/main/Resources/UFOs5.png)
 
 If we ever need to clear the filters, we just delete what was entered into the filter and the table will reset itself to our needs.
 
